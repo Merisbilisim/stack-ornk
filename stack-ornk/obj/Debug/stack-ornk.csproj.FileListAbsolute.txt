@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\stack-ornk\stack-ornk\bin\Debug\stack-ornk.exe.config
+C:\Users\User\source\repos\stack-ornk\stack-ornk\bin\Debug\stack-ornk.exe
+C:\Users\User\source\repos\stack-ornk\stack-ornk\bin\Debug\stack-ornk.pdb
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack-ornk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack-ornk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack_ornk.Form1.resources
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack_ornk.Properties.Resources.resources
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack-ornk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack-ornk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack-ornk.exe
+C:\Users\User\source\repos\stack-ornk\stack-ornk\obj\Debug\stack-ornk.pdb
